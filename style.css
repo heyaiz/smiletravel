@@ -9,7 +9,7 @@
 }
 
 .container {
-  display: flex;
+  display: content;
   flex-direction: column;
   align-items: center;
   justify-content: center;
